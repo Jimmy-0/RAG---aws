@@ -1,4 +1,4 @@
-# RAG (Retrieve and Generate) System | Streamlit, AWS Bedrock, FAISS, LangChain June 2024
+# RAG (Retrieve and Generate) System | Streamlit, AWS Bedrock, FAISS, LangChain 
 - Developed a sophisticated AI-driven RAG system that processes PDFs and answers user queries in natural language using AWS Bedrock for NLP and FAISS for efficient similarity search.
 - Designed and implemented a comprehensive document processing pipeline, including PDF ingestion, text extraction, chunking, embedding generation, and indexing, ensuring high performance and scalability.
 - Achieved efficient and scalable query management using Amazon S3 for persistent document storage and Amazon DynamoDB for state tracking of query metadata.
